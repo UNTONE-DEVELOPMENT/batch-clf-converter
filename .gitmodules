@@ -1,0 +1,6 @@
+[submodule "batch-clf-converter/clf-utils"]
+	path = batch-clf-converter/clf-utils
+	url = https://github.com/untone-development/clf-utils
+[submodule "batch-clf-converter/fake-unity"]
+	path = batch-clf-converter/fake-unity
+	url = https://github.com/UNTONE-DEVELOPMENT/fake-unity
