@@ -1,4 +1,5 @@
 ﻿using System;
+using clf;
 
 namespace batch_clf_converter
 {
@@ -6,7 +7,7 @@ namespace batch_clf_converter
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! - " + args[1]);
         }
     }
 }
