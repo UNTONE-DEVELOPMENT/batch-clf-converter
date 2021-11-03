@@ -1,0 +1,16 @@
+K:\cubey\batch-clf-converter\batch-clf-converter\bin\Debug\net5.0\batch-clf-converter.exe
+K:\cubey\batch-clf-converter\batch-clf-converter\bin\Debug\net5.0\batch-clf-converter.deps.json
+K:\cubey\batch-clf-converter\batch-clf-converter\bin\Debug\net5.0\batch-clf-converter.runtimeconfig.json
+K:\cubey\batch-clf-converter\batch-clf-converter\bin\Debug\net5.0\batch-clf-converter.runtimeconfig.dev.json
+K:\cubey\batch-clf-converter\batch-clf-converter\bin\Debug\net5.0\batch-clf-converter.dll
+K:\cubey\batch-clf-converter\batch-clf-converter\bin\Debug\net5.0\ref\batch-clf-converter.dll
+K:\cubey\batch-clf-converter\batch-clf-converter\bin\Debug\net5.0\batch-clf-converter.pdb
+K:\cubey\batch-clf-converter\batch-clf-converter\obj\Debug\net5.0\batch-clf-converter.csproj.AssemblyReference.cache
+K:\cubey\batch-clf-converter\batch-clf-converter\obj\Debug\net5.0\batch-clf-converter.GeneratedMSBuildEditorConfig.editorconfig
+K:\cubey\batch-clf-converter\batch-clf-converter\obj\Debug\net5.0\batch-clf-converter.AssemblyInfoInputs.cache
+K:\cubey\batch-clf-converter\batch-clf-converter\obj\Debug\net5.0\batch-clf-converter.AssemblyInfo.cs
+K:\cubey\batch-clf-converter\batch-clf-converter\obj\Debug\net5.0\batch-clf-converter.csproj.CoreCompileInputs.cache
+K:\cubey\batch-clf-converter\batch-clf-converter\obj\Debug\net5.0\batch-clf-converter.dll
+K:\cubey\batch-clf-converter\batch-clf-converter\obj\Debug\net5.0\ref\batch-clf-converter.dll
+K:\cubey\batch-clf-converter\batch-clf-converter\obj\Debug\net5.0\batch-clf-converter.pdb
+K:\cubey\batch-clf-converter\batch-clf-converter\obj\Debug\net5.0\batch-clf-converter.genruntimeconfig.cache

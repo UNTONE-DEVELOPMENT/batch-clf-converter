@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "batch-clf-converter": {
+      "commandName": "Project",
+      "commandLineArgs": "\"K:\\cubeys-adventures\\Assets\\Maps\\Precision Pack\" \"K:\\cubeys-adventures\\Assets\\Maps\\Precision Pack\\clf2\""
+    }
+  }
+}
